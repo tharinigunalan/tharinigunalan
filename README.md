@@ -1,7 +1,7 @@
 
 # Hi, I'm Tharini Gunalan! 👋
 
-### 📊 Aspiring Data Analyst | Statistics Undergraduate
+###  Aspiring Data Analyst | Statistics Undergraduate
 
 I'm currently pursuing a **Bachelor of Science in Statistics with Honours** at **Universiti Putra Malaysia (UPM)**.
 
@@ -9,28 +9,28 @@ I'm passionate about using statistics, data analytics, and machine learning to u
 
 Through academic projects, competitions, and hands-on experiences, I'm continuously developing my analytical and technical skills while exploring real-world applications of data science.
 
-🎯 **Actively seeking Data Analytics / Data Science internship opportunities from March to July 2027.**
+ **Actively seeking Data Analytics / Data Science internship opportunities from March to July 2027.**
 
 ---
 
-## 👩‍💻 About Me
+##  About Me !!!
 
-- 🎓 Statistics undergraduate at Universiti Putra Malaysia (UPM).
-- 📊 Passionate about data analytics, statistical modelling, and machine learning.
-- 🔭 Currently working on data analytics and machine learning projects.
-- 🌱 Continuously improving my analytical, programming, and data visualisation skills.
-- 🤝 Interested in collaborating on meaningful, data-driven projects.
-- 💡 Enjoy transforming raw data into actionable insights to support decision-making.
+-  Statistics undergraduate at Universiti Putra Malaysia (UPM).
+-  Passionate about data analytics, statistical modelling, and machine learning.
+-  Currently working on data analytics and machine learning projects.
+-  Continuously improving my analytical, programming, and data visualisation skills.
+-  Interested in collaborating on meaningful, data-driven projects.
+-  Enjoy transforming raw data into actionable insights to support decision-making.
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
-### 💻 Programming & Tools
+###  Programming & Tools
 - R Programming | RStudio
 - Microsoft Excel | Power BI
 
-### 📊 Data Analytics & Statistics
+###  Data Analytics & Statistics
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
 - Statistical Analysis
@@ -47,9 +47,9 @@ Through academic projects, competitions, and hands-on experiences, I'm continuou
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🌏 Tourism Analytics & Forecasting
+###  Tourism Analytics & Forecasting
 **Machine Learning | XGBoost | SHAP | Power BI**
 
 Explored tourism-related datasets using machine learning and data visualisation techniques to identify meaningful trends and generate actionable insights.
@@ -58,7 +58,7 @@ Explored tourism-related datasets using machine learning and data visualisation 
 - Utilised SHAP to interpret model predictions and identify influential features.
 - Developed an interactive Power BI dashboard to communicate analytical findings effectively.
 
-### 🫀 Brugada Syndrome Detection | IDSC 2026
+###  Brugada Syndrome Detection | IDSC 2026
 **Machine Learning | Classification | Streamlit**
 
 Participated in the International Data Science Challenge 2026 as part of **Team Horas Asal Jalan**, focusing on the application of machine learning in healthcare analytics.
@@ -67,7 +67,7 @@ Participated in the International Data Science Challenge 2026 as part of **Team 
 - Built an interactive Streamlit dashboard to visualise and present analytical results.
 - Focused on translating complex analytical findings into accessible insights.
 
-### 📈 Statistical Analysis & Data Visualisation
+###  Statistical Analysis & Data Visualisation
 **R | Statistics | Data Analytics**
 
 Applied statistical techniques and analytical methods to academic datasets to explore relationships, identify patterns, and communicate findings.
@@ -78,7 +78,7 @@ Applied statistical techniques and analytical methods to academic datasets to ex
 
 ---
 
-## 📚 Currently Learning & Exploring
+##  Currently Learning & Exploring
 
 - Advanced Data Analytics
 - Statistical Modelling & Predictive Analytics
@@ -88,7 +88,7 @@ Applied statistical techniques and analytical methods to academic datasets to ex
 
 ---
 
-## 🎯 Career Interests
+##  Career Interests
 
 I'm particularly interested in opportunities involving:
 
